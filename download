@@ -1,0 +1,9 @@
+# MySQL exports or local backups
+*.sql.bak
+*.dump
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
