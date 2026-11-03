@@ -66,4 +66,4 @@ Digital Warranty & Purchase Tracker is an SQL-based DBMS project that stores pro
 - Add more detailed service-centre information.
 
 ## Author
-Add your name, university UID/roll number, course and semester here before submission.
+Archit Rana
